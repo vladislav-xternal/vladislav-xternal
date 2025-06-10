@@ -1,16 +1,20 @@
-## Hi there 👋
+# **✨ Hey there! I'm xternal.**
 
-<!--
-**vladislav-xternal/vladislav-xternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 *I love coding in Python/C++/more and creating useful projects.*
 
-Here are some ideas to get you started:
+## 🔧 **My Python Skills**
+- **Telegram Bots** – automating tasks
+- **Game Development** – simple games with PyGame
+- **Web Apps** – building websites with Flask
+- **Databases** – storing data in SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **My C++ Skills**
+- **Currently learning this language.**
+
+## 🌟 **My Projects**
+- 🎮 [Python game inspired by I Wanna Be the Guy](https://vladislav-xternal.itch.io/i-wanna-be-the-jumper)
+
+
+## 📬 **You can find me here**
+- [Telegram] - @xternalwex
+- [Discord] - @xternalwex
