@@ -18,5 +18,5 @@
 
 
 ## 📬 **You can find me here**
-- [Telegram] - @xternalwex
+- [Telegram](https://t.me/vladislav_xternal)
 - [Discord] - @xternalwex
