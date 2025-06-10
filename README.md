@@ -1,4 +1,6 @@
-# **✨ Hey there! I'm xternal.**
+![Image](https://github.com/user-attachments/assets/160dbcd0-2c3f-4edf-961c-adecebf4887d)
+
+#**✨ Hey there! I'm xternal.**
 
 💻 *I love coding in Python/C++/more and creating useful projects.*
 
